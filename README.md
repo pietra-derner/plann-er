@@ -11,16 +11,17 @@ Projeto de um Plann.er de viagens, para criar novas viagens, convidar pessoas pa
 📌 .
 
 Com esse projeto, consolidei meus conhecimentos em **Spring Boot**, utilização as dependências:
-**Flyway Migration** - que ajuda na criação de migration para o banco de dados, identificando as migration novas e executando-as;
-**Devtools** - que são as dependências para desenvolvimento;
-**Lombok** - uma biblioteca utilizada para geração de código *Boiler Plate*, para evitar que precisemos escrever alguns códigos que são "copia e cola";
-**JPA Spring Data** - uma biblioteca para lidar com persistência de dados, conexão com banco de dados, representação dos nosso dados lá dentro do banco de dados através de objetos; e
-**H2DataBase** - um banco de dados em memória, muito utilizado para fazer testes.
+- **Flyway Migration** - que ajuda na criação de migration para o banco de dados, identificando as migration novas e executando-as;
+- **Devtools** - que são as dependências para desenvolvimento;
+- **Lombok** - uma biblioteca utilizada para geração de código *Boiler Plate*, para evitar que precisemos escrever alguns códigos que são "copia e cola";
+- **JPA Spring Data** - uma biblioteca para lidar com persistência de dados, conexão com banco de dados, representação dos nosso dados lá dentro do banco de dados através de objetos; e
+- **H2DataBase** - um banco de dados em memória, muito utilizado para fazer testes.
+
 Além de reforçar a aprendizagem de CRUD e boas práticas em programação!
 
 ## **Problemas enfrentados** ⚠️
 
-Por ser meu primeiro projeto, e consequentemente também o primeiro projeto utilizando o Spring Framework, a biblioteca Jackson e o método stream(), encontrei algumas dificuldades no meio do caminho, tais como a utilização do:
+Primeira vez fazendo features extras em um projeto, encontrei algumas dificuldades no meio do caminho, tais como:
 #### Problema 01:
 ""
 #### Problema 02:
