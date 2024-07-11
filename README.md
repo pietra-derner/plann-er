@@ -1,14 +1,10 @@
 # PLANN.ER 🛄
 Projeto de um Plann.er de viagens, para criar novas viagens, convidar pessoas para viajar com você, criar atividades para fazer nessa viagem e recuperar todas essas informações! Esse projeto foi criado [NLW Journey](https://www.rocketseat.com.br/eventos/nlw) da [Rocketseat](https://app.rocketseat.com.br/)! 
 
-## **Para criar features extras do projeto, fiz o seguinte passo a passo:**
-📌 ;
+## **Para criar uma feature extra do projeto, fiz o seguinte:**
+📌 extraí os "services" da classe TripController e refatorei para a classe TripService;
 
-📌 ;
-
-📌 ;
-
-📌 .
+📌 mantive os "repository" na classe TripController.
 
 Com esse projeto, consolidei meus conhecimentos em **Spring Boot**, utilização as dependências:
 - **Flyway Migration** - que ajuda na criação de migration para o banco de dados, identificando as migration novas e executando-as;
@@ -19,22 +15,7 @@ Com esse projeto, consolidei meus conhecimentos em **Spring Boot**, utilização
 
 Além de reforçar a aprendizagem de CRUD e boas práticas em programação!
 
-## **Problemas enfrentados** ⚠️
-
-Primeira vez fazendo features extras em um projeto, encontrei algumas dificuldades no meio do caminho, tais como:
-#### Problema 01:
-""
-#### Problema 02:
-""
-#### Problema 03:
-""
-
-* **Como solucionei:** ""
-
 ## **Tecnologias utilizadas:** 
 * [Java](https://www.java.com/pt-BR/)
 * [Spring Framework](https://spring.io/projects/spring-framework)
 * [Insomnia](https://insomnia.rest/download)
-
-## ⏭️ Próximos passos:
-A partir dessa aplicação, quero criar uma aplicação que consuma dados de uma API de conversor de moedas 🪙.
